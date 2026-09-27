@@ -1,0 +1,760 @@
+# Curated IEEE OUI prefixes for common home-network vendors.
+# Format: <6 hex chars><TAB><vendor>. Run `netmon oui-update` to fetch the full registry.
+000393	Apple
+000A27	Apple
+000D93	Apple
+001124	Apple
+001451	Apple
+0016CB	Apple
+0017F2	Apple
+0019E3	Apple
+001B63	Apple
+001CB3	Apple
+001D4F	Apple
+001E52	Apple
+001EC2	Apple
+001F5B	Apple
+001FF3	Apple
+0021E9	Apple
+002241	Apple
+002312	Apple
+002332	Apple
+00236C	Apple
+0023DF	Apple
+002436	Apple
+002500	Apple
+00254B	Apple
+0025BC	Apple
+002608	Apple
+00264A	Apple
+0026B0	Apple
+0026BB	Apple
+003EE1	Apple
+0050E4	Apple
+0C4DE9	Apple
+14109F	Apple
+1C36BB	Apple
+28CFE9	Apple
+3C0754	Apple
+3C22FB	Apple
+406C8F	Apple
+54E43A	Apple
+5C969D	Apple
+60334B	Apple
+6C4008	Apple
+705681	Apple
+7831C1	Apple
+78CA39	Apple
+7CD1C3	Apple
+8863DF	Apple
+8C8590	Apple
+9801A7	Apple
+A45E60	Apple
+A85C2C	Apple
+ACBC32	Apple
+B0481A	Apple
+B8E856	Apple
+BC5436	Apple
+D023DB	Apple
+D8004D	Apple
+DC2B2A	Apple
+E0B52D	Apple
+F01898	Apple
+F0D1A9	Apple
+F0DBE2	Apple
+F45C89	Apple
+B827EB	Raspberry Pi Foundation
+DCA632	Raspberry Pi Trading
+E45F01	Raspberry Pi Trading
+D83ADD	Raspberry Pi Trading
+28CDC1	Raspberry Pi Trading
+2CCF67	Raspberry Pi (Trading)
+001A11	Google
+1CF29A	Google
+20DFB9	Google
+30FD38	Google
+3C5AB4	Google
+44070B	Google
+48D6D5	Google
+546009	Google
+7C2EBD	Google
+94EB2C	Google
+A47733	Google
+D86C63	Google
+E4F042	Google
+F4F5D8	Google
+F88FCA	Google
+18B430	Nest Labs
+641666	Nest Labs
+00FC8B	Amazon Technologies
+0C47C9	Amazon Technologies
+10AE60	Amazon Technologies
+18742E	Amazon Technologies
+1C12B0	Amazon Technologies
+244CE3	Amazon Technologies
+2CA835	Amazon Technologies
+34D270	Amazon Technologies
+38F73D	Amazon Technologies
+40A2DB	Amazon Technologies
+40B4CD	Amazon Technologies
+44650D	Amazon Technologies
+4C1744	Amazon Technologies
+4CEFC0	Amazon Technologies
+50DCE7	Amazon Technologies
+6837E9	Amazon Technologies
+6C0C9A	Amazon Technologies
+6C5697	Amazon Technologies
+747548	Amazon Technologies
+74C246	Amazon Technologies
+78E103	Amazon Technologies
+84D6D0	Amazon Technologies
+8CE9B4	Amazon Technologies
+90A822	Amazon Technologies
+A002DC	Amazon Technologies
+A0D0DC	Amazon Technologies
+A40801	Amazon Technologies
+AC63BE	Amazon Technologies
+B0FC0D	Amazon Technologies
+B47C9C	Amazon Technologies
+F0272D	Amazon Technologies
+F0D2F1	Amazon Technologies
+F0F0A4	Amazon Technologies
+FCA183	Amazon Technologies
+FCA667	Amazon Technologies
+FC65DE	Amazon Technologies
+80DA13	eero (Amazon)
+F8BBBF	eero (Amazon)
+001247	Samsung Electronics
+001599	Samsung Electronics
+001632	Samsung Electronics
+0017C9	Samsung Electronics
+0018AF	Samsung Electronics
+001A8A	Samsung Electronics
+001B98	Samsung Electronics
+001C43	Samsung Electronics
+001D25	Samsung Electronics
+001E7D	Samsung Electronics
+001FCC	Samsung Electronics
+002119	Samsung Electronics
+002339	Samsung Electronics
+002454	Samsung Electronics
+002637	Samsung Electronics
+30CDA7	Samsung Electronics
+34BE00	Samsung Electronics
+400E85	Samsung Electronics
+4CBCA5	Samsung Electronics
+5C0A5B	Samsung Electronics
+78A873	Samsung Electronics
+8425DB	Samsung Electronics
+8C7712	Samsung Electronics
+8C71F8	Samsung Electronics
+8CF5A3	Samsung Electronics
+94350A	Samsung Electronics
+A0821F	Samsung Electronics
+A8F274	Samsung Electronics
+B407F9	Samsung Electronics
+BC4434	Samsung Electronics
+C4731E	Samsung Electronics
+CC07AB	Samsung Electronics
+D022BE	Samsung Electronics
+D857EF	Samsung Electronics
+E4121D	Samsung Electronics
+E8508B	Samsung Electronics
+EC1F72	Samsung Electronics
+F025B7	Samsung Electronics
+F409D8	Samsung Electronics
+F47B5E	Samsung Electronics
+F8042E	Samsung Electronics
+000E35	Intel
+001302	Intel
+001500	Intel
+0019D1	Intel
+001B21	Intel
+001E64	Intel
+001E67	Intel
+001F3B	Intel
+0022FB	Intel
+0024D6	Intel
+0026C6	Intel
+3C970E	Intel
+5CE0C5	Intel
+606720	Intel
+64D4DA	Intel
+7C7A91	Intel
+8086F2	Intel
+84A6C8	Intel
+8C8D28	Intel
+A0A4C5	Intel
+A4C494	Intel
+AC7BA1	Intel
+B4B676	Intel
+C8F750	Intel
+D0C637	Intel
+F8633F	Intel
+10FEED	TP-Link
+14CC20	TP-Link
+18A6F7	TP-Link
+1C3BF3	TP-Link
+1C61B4	TP-Link
+30B5C2	TP-Link
+3460F9	TP-Link
+5091E3	TP-Link
+50C7BF	TP-Link
+54C80F	TP-Link
+6032B1	TP-Link
+60E327	TP-Link
+647002	TP-Link
+8C210A	TP-Link
+90F652	TP-Link
+98DAC4	TP-Link
+A42BB0	TP-Link
+B0487A	TP-Link
+B0BE76	TP-Link
+C006C3	TP-Link
+C46E1F	TP-Link
+E894F6	TP-Link
+EC086B	TP-Link
+F4F26D	TP-Link
+000FB5	Netgear
+001B2F	Netgear
+001E2A	Netgear
+00224B	Netgear
+0026F2	Netgear
+08028E	Netgear
+08BD43	Netgear
+100C6B	Netgear
+10DA43	Netgear
+20E52A	Netgear
+28C68E	Netgear
+2C3033	Netgear
+30469A	Netgear
+3894ED	Netgear
+44A56E	Netgear
+4C60DE	Netgear
+6CB0CE	Netgear
+6CCDD6	Netgear
+744401	Netgear
+841B5E	Netgear
+9C3DCF	Netgear
+A00460	Netgear
+A040A0	Netgear
+A42B8C	Netgear
+B03956	Netgear
+B07FB9	Netgear
+C03F0E	Netgear
+C40415	Netgear
+C43DC7	Netgear
+CC40D0	Netgear
+DCEF09	Netgear
+E0469A	Netgear
+E4F4C6	Netgear
+E8FCAF	Netgear
+000E58	Sonos
+348A12	Sonos
+48A6B8	Sonos
+542A1B	Sonos
+5CAAFD	Sonos
+78281C	Sonos
+949F3E	Sonos
+B8E937	Sonos
+C43875	Sonos
+F0F6C1	Sonos
+002722	Ubiquiti
+04184D	Ubiquiti
+0418D6	Ubiquiti
+18E829	Ubiquiti
+245A4C	Ubiquiti
+24A43C	Ubiquiti
+28704E	Ubiquiti
+44D9E7	Ubiquiti
+60223B	Ubiquiti
+687251	Ubiquiti
+68D79A	Ubiquiti
+70A741	Ubiquiti
+74ACB9	Ubiquiti
+784558	Ubiquiti
+788A20	Ubiquiti
+802AA8	Ubiquiti
+9C05D6	Ubiquiti
+B4FBE4	Ubiquiti
+D021F9	Ubiquiti
+DC9FDB	Ubiquiti
+E063DA	Ubiquiti
+E43883	Ubiquiti
+F09FC2	Ubiquiti
+F492BF	Ubiquiti
+FCECDA	Ubiquiti
+0CB815	Espressif (ESP8266/ESP32)
+10521C	Espressif (ESP8266/ESP32)
+18FE34	Espressif (ESP8266/ESP32)
+240AC4	Espressif (ESP8266/ESP32)
+24628A	Espressif (ESP8266/ESP32)
+246F28	Espressif (ESP8266/ESP32)
+24A160	Espressif (ESP8266/ESP32)
+24B2DE	Espressif (ESP8266/ESP32)
+2C3AE8	Espressif (ESP8266/ESP32)
+2CF432	Espressif (ESP8266/ESP32)
+30AEA4	Espressif (ESP8266/ESP32)
+34865D	Espressif (ESP8266/ESP32)
+34AB95	Espressif (ESP8266/ESP32)
+3C6105	Espressif (ESP8266/ESP32)
+3C71BF	Espressif (ESP8266/ESP32)
+40F520	Espressif (ESP8266/ESP32)
+483FDA	Espressif (ESP8266/ESP32)
+4C11AE	Espressif (ESP8266/ESP32)
+4C7525	Espressif (ESP8266/ESP32)
+500291	Espressif (ESP8266/ESP32)
+5CCF7F	Espressif (ESP8266/ESP32)
+600194	Espressif (ESP8266/ESP32)
+68C63A	Espressif (ESP8266/ESP32)
+7C9EBD	Espressif (ESP8266/ESP32)
+7CDFA1	Espressif (ESP8266/ESP32)
+807D3A	Espressif (ESP8266/ESP32)
+840D8E	Espressif (ESP8266/ESP32)
+84CCA8	Espressif (ESP8266/ESP32)
+84F3EB	Espressif (ESP8266/ESP32)
+8CAAB5	Espressif (ESP8266/ESP32)
+8CCE4E	Espressif (ESP8266/ESP32)
+94B97E	Espressif (ESP8266/ESP32)
+98F4AB	Espressif (ESP8266/ESP32)
+9C9C1F	Espressif (ESP8266/ESP32)
+A020A6	Espressif (ESP8266/ESP32)
+A47B9D	Espressif (ESP8266/ESP32)
+A4CF12	Espressif (ESP8266/ESP32)
+AC67B2	Espressif (ESP8266/ESP32)
+B4E62D	Espressif (ESP8266/ESP32)
+B8F009	Espressif (ESP8266/ESP32)
+BCDDC2	Espressif (ESP8266/ESP32)
+C44F33	Espressif (ESP8266/ESP32)
+C45BBE	Espressif (ESP8266/ESP32)
+C8C9A3	Espressif (ESP8266/ESP32)
+CC50E3	Espressif (ESP8266/ESP32)
+D8A01D	Espressif (ESP8266/ESP32)
+D8BFC0	Espressif (ESP8266/ESP32)
+D8F15B	Espressif (ESP8266/ESP32)
+DC4F22	Espressif (ESP8266/ESP32)
+E09806	Espressif (ESP8266/ESP32)
+E868E7	Espressif (ESP8266/ESP32)
+E8DB84	Espressif (ESP8266/ESP32)
+EC94CB	Espressif (ESP8266/ESP32)
+ECFABC	Espressif (ESP8266/ESP32)
+F008D1	Espressif (ESP8266/ESP32)
+F4CFA2	Espressif (ESP8266/ESP32)
+FCF5C4	Espressif (ESP8266/ESP32)
+001788	Signify (Philips Hue)
+000D4B	Roku
+105932	Roku
+20EFBD	Roku
+88DEA9	Roku
+8C49B6	Roku
+B0A737	Roku
+B83E59	Roku
+C83A6B	Roku
+CC6DA0	Roku
+D83134	Roku
+DC3A5E	Roku
+001315	Sony
+001A80	Sony
+001DBA	Sony
+0015C1	Sony Interactive Entertainment
+0019C5	Sony Interactive Entertainment
+001FA7	Sony Interactive Entertainment
+00248D	Sony Interactive Entertainment
+0CFE45	Sony Interactive Entertainment
+280DFC	Sony Interactive Entertainment
+709E29	Sony Interactive Entertainment
+78C881	Sony Interactive Entertainment
+A8E3EE	Sony Interactive Entertainment
+0017FA	Microsoft
+002248	Microsoft
+0025AE	Microsoft
+0050F2	Microsoft
+281878	Microsoft
+3059B7	Microsoft
+4C0BBE	Microsoft
+5882A8	Microsoft
+6045BD	Microsoft
+7C1E52	Microsoft
+7CED8D	Microsoft
+985FD3	Microsoft
+B4AE2B	Microsoft
+C83F26	Microsoft
+D48F33	Microsoft
+0009BF	Nintendo
+0016E4	Nintendo
+0017AB	Nintendo
+00191D	Nintendo
+001AE9	Nintendo
+001B7A	Nintendo
+001BEA	Nintendo
+001CBE	Nintendo
+001DBC	Nintendo
+001E35	Nintendo
+001EA9	Nintendo
+001F32	Nintendo
+001FC5	Nintendo
+002125	Nintendo
+0022AA	Nintendo
+0023CC	Nintendo
+002444	Nintendo
+0024F3	Nintendo
+002544	Nintendo
+0025A0	Nintendo
+342FBD	Nintendo
+40D28A	Nintendo
+40F407	Nintendo
+582F40	Nintendo
+5C521E	Nintendo
+64B5C6	Nintendo
+7CBB8A	Nintendo
+8CCDE8	Nintendo
+98B6E9	Nintendo
+9CE635	Nintendo
+A45C27	Nintendo
+A4C0E1	Nintendo
+B87826	Nintendo
+B8AE6E	Nintendo
+CC9E00	Nintendo
+CCFB65	Nintendo
+D86BF7	Nintendo
+DC68EB	Nintendo
+E00C7F	Nintendo
+E84ECE	Nintendo
+ECC40D	Nintendo
+00065B	Dell
+000874	Dell
+000BDB	Dell
+000D56	Dell
+000F1F	Dell
+001143	Dell
+001372	Dell
+001422	Dell
+0015C5	Dell
+00188B	Dell
+0019B9	Dell
+001AA0	Dell
+001C23	Dell
+001D09	Dell
+001E4F	Dell
+001EC9	Dell
+002170	Dell
+00219B	Dell
+002219	Dell
+0023AE	Dell
+002564	Dell
+0026B9	Dell
+141877	Dell
+1866DA	Dell
+18A99B	Dell
+18DBF2	Dell
+246E96	Dell
+24B6FD	Dell
+28F10E	Dell
+3417EB	Dell
+4C7625	Dell
+5CF9DD	Dell
+74867A	Dell
+782BCB	Dell
+842B2B	Dell
+848F69	Dell
+8CEC4B	Dell
+989096	Dell
+A4BADB	Dell
+B083FE	Dell
+B8AC6F	Dell
+B8CA3A	Dell
+BC305B	Dell
+C81F66	Dell
+D067E5	Dell
+D4AE52	Dell
+D4BED9	Dell
+E0DB55	Dell
+E4F004	Dell
+F01FAF	Dell
+F04DA2	Dell
+F8B156	Dell
+F8BC12	Dell
+F8DB88	Dell
+0001E6	Hewlett Packard
+0001E7	Hewlett Packard
+0004EA	Hewlett Packard
+000802	Hewlett Packard
+000A57	Hewlett Packard
+000BCD	Hewlett Packard
+000D9D	Hewlett Packard
+000E7F	Hewlett Packard
+000F20	Hewlett Packard
+0010E3	Hewlett Packard
+001185	Hewlett Packard
+001321	Hewlett Packard
+0014C2	Hewlett Packard
+001635	Hewlett Packard
+0017A4	Hewlett Packard
+001A4B	Hewlett Packard
+001B78	Hewlett Packard
+001CC4	Hewlett Packard
+001E0B	Hewlett Packard
+001F29	Hewlett Packard
+00215A	Hewlett Packard
+002264	Hewlett Packard
+00237D	Hewlett Packard
+002481	Hewlett Packard
+002655	Hewlett Packard
+00306E	Hewlett Packard
+0060B0	Hewlett Packard
+101F74	Hewlett Packard
+1CC1DE	Hewlett Packard
+2C27D7	Hewlett Packard
+2C4138	Hewlett Packard
+3024A9	Hewlett Packard
+3C4A92	Hewlett Packard
+3CD92B	Hewlett Packard
+6CC217	Hewlett Packard
+80C16E	Hewlett Packard
+8851FB	Hewlett Packard
+A08CFD	Hewlett Packard
+A0B3CC	Hewlett Packard
+A0D3C1	Hewlett Packard
+B499BA	Hewlett Packard
+B4B52F	Hewlett Packard
+C8CBB8	Hewlett Packard
+D48564	Hewlett Packard
+D89D67	Hewlett Packard
+E4115B	Hewlett Packard
+EC8EB5	Hewlett Packard
+F0921C	Hewlett Packard
+FC15B4	Hewlett Packard
+28D244	Lenovo
+54EE75	Lenovo
+6C4B90	Lenovo
+04CF8C	Xiaomi
+0C1DAF	Xiaomi
+14F65A	Xiaomi
+185936	Xiaomi
+286C07	Xiaomi
+28E31F	Xiaomi
+3480B3	Xiaomi
+38A4ED	Xiaomi
+4C49E3	Xiaomi
+508F4C	Xiaomi
+584498	Xiaomi
+640980	Xiaomi
+64B473	Xiaomi
+64CC2E	Xiaomi
+68DFDD	Xiaomi
+742344	Xiaomi
+7802F8	Xiaomi
+7C1DD9	Xiaomi
+8CBEBE	Xiaomi
+9C99A0	Xiaomi
+A086C6	Xiaomi
+ACC1EE	Xiaomi
+B0E235	Xiaomi
+C40BCB	Xiaomi
+C46AB7	Xiaomi
+D4970B	Xiaomi
+F0B429	Xiaomi
+F48B32	Xiaomi
+F8A45F	Xiaomi
+FC64BA	Xiaomi
+001E10	Huawei
+002568	Huawei
+00259E	Huawei
+00464B	Huawei
+00E0FC	Huawei
+04BD70	Huawei
+0C37DC	Huawei
+1C1D67	Huawei
+20F3A3	Huawei
+283CE4	Huawei
+3CF808	Huawei
+404D8E	Huawei
+4846FB	Huawei
+5C7D5E	Huawei
+5CB43E	Huawei
+6416F0	Huawei
+70723C	Huawei
+781DBA	Huawei
+80B686	Huawei
+8853D4	Huawei
+9C28EF	Huawei
+ACE215	Huawei
+C8D15E	Huawei
+CC96A0	Huawei
+E0247F	Huawei
+E468A3	Huawei
+F4C714	Huawei
+F83DFF	Huawei
+F84ABF	Huawei
+FC48EF	Huawei
+001C62	LG Electronics
+001E75	LG Electronics
+001F6B	LG Electronics
+001FE3	LG Electronics
+0021FB	LG Electronics
+0022A9	LG Electronics
+002483	LG Electronics
+0025E5	LG Electronics
+0026E2	LG Electronics
+10683F	LG Electronics
+2021A5	LG Electronics
+3CBDD8	LG Electronics
+40B0FA	LG Electronics
+58A2B5	LG Electronics
+64899A	LG Electronics
+6CD68A	LG Electronics
+74A722	LG Electronics
+8C3AE3	LG Electronics
+A039F7	LG Electronics
+A816B2	LG Electronics
+A8922C	LG Electronics
+B81DAA	LG Electronics
+BCF5AC	LG Electronics
+C49A02	LG Electronics
+CC2D8C	LG Electronics
+CCFA00	LG Electronics
+F01C13	LG Electronics
+F80CF3	LG Electronics
+000C41	Cisco-Linksys
+000E08	Cisco-Linksys
+000F66	Cisco-Linksys
+001217	Cisco-Linksys
+001310	Cisco-Linksys
+001439	Cisco-Linksys
+0016B6	Cisco-Linksys
+001839	Cisco-Linksys
+0018F8	Cisco-Linksys
+001A70	Cisco-Linksys
+001C10	Cisco-Linksys
+001D7E	Cisco-Linksys
+001EE5	Cisco-Linksys
+002129	Cisco-Linksys
+002369	Cisco-Linksys
+00259C	Cisco-Linksys
+20AA4B	Cisco-Linksys
+48F8B3	Cisco-Linksys
+98FC11	Cisco-Linksys
+C0C1C0	Cisco-Linksys
+C8D719	Cisco-Linksys
+08863B	Belkin
+149182	Belkin
+24F5A2	Belkin
+302303	Belkin
+6038E0	Belkin
+94103E	Belkin
+B4750E	Belkin
+C05627	Belkin
+EC1A59	Belkin
+000C6E	ASUSTek
+000EA6	ASUSTek
+001125	ASUSTek
+0011D8	ASUSTek
+0013D4	ASUSTek
+0015F2	ASUSTek
+001731	ASUSTek
+0018F3	ASUSTek
+001A92	ASUSTek
+001BFC	ASUSTek
+001D60	ASUSTek
+001E8C	ASUSTek
+001FC6	ASUSTek
+002215	ASUSTek
+002354	ASUSTek
+00248C	ASUSTek
+002618	ASUSTek
+04D4C4	ASUSTek
+04D9F5	ASUSTek
+08606E	ASUSTek
+086266	ASUSTek
+08BFB8	ASUSTek
+107B44	ASUSTek
+10BF48	ASUSTek
+10C37B	ASUSTek
+14DAE9	ASUSTek
+14DDA9	ASUSTek
+1831BF	ASUSTek
+1C872C	ASUSTek
+1CB72C	ASUSTek
+20CF30	ASUSTek
+2C4D54	ASUSTek
+2C56DC	ASUSTek
+2CFDA1	ASUSTek
+305A3A	ASUSTek
+3085A9	ASUSTek
+382C4A	ASUSTek
+38D547	ASUSTek
+3C7C3F	ASUSTek
+40167E	ASUSTek
+485B39	ASUSTek
+4CEDFB	ASUSTek
+50465D	ASUSTek
+5404A6	ASUSTek
+54A050	ASUSTek
+60455E	ASUSTek
+6045CB	ASUSTek
+704D7B	ASUSTek
+708BCD	ASUSTek
+74D02B	ASUSTek
+7824AF	ASUSTek
+88D7F6	ASUSTek
+9C5C8E	ASUSTek
+AC220B	ASUSTek
+AC9E17	ASUSTek
+B06EBF	ASUSTek
+BCAEC5	ASUSTek
+BCEE7B	ASUSTek
+C86000	ASUSTek
+C87F54	ASUSTek
+D017C2	ASUSTek
+D45D64	ASUSTek
+D850E6	ASUSTek
+E03F49	ASUSTek
+F02F74	ASUSTek
+F07959	ASUSTek
+F46D04	ASUSTek
+F832E4	ASUSTek
+001132	Synology
+001BA9	Brother Industries
+008077	Brother Industries
+30055C	Brother Industries
+3C2AF4	Brother Industries
+000085	Canon
+00BBC1	Canon
+001E8F	Canon
+180CAC	Canon
+2C9EFC	Canon
+3C9C0F	Canon
+60128B	Canon
+888717	Canon
+D8492F	Canon
+F4A997	Canon
+000048	Seiko Epson
+0026AB	Seiko Epson
+389D92	Seiko Epson
+44D244	Seiko Epson
+64EB8C	Seiko Epson
+9CAED3	Seiko Epson
+A4EE57	Seiko Epson
+E0BB9E	Seiko Epson
+4CFCAA	Tesla
+98ED5C	Tesla
+2CAA8E	Wyze Labs
+7C78B2	Wyze Labs
+3C3786	Arlo Technologies
+10D561	Tuya Smart
+1C90FF	Tuya Smart
+68572D	Tuya Smart
+7CF666	Tuya Smart
+84E342	Tuya Smart
+A09208	Tuya Smart
+CC8CBF	Tuya Smart
+D4A651	Tuya Smart
+D81F12	Tuya Smart
+000569	VMware
+000C29	VMware
+001C14	VMware
+005056	VMware
+001C42	Parallels
+080027	Oracle VirtualBox
+525400	QEMU/KVM virtual NIC
+00000C	Cisco Systems

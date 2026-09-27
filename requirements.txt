@@ -1,0 +1,3 @@
+# Runtime dependencies. Everything else is the Python standard library.
+# scapy is only used for the optional `--method arp` (sudo) discovery mode.
+scapy>=2.5

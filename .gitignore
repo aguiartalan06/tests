@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+
+# Virtualenv
+.venv/
+venv/
+
+# Runtime data (scan history + generated reports)
+*.db
+*.db-journal
+reports/*.md
+!reports/.gitkeep
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
